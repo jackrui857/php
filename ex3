@@ -1,0 +1,82 @@
+運算子加減乘除運算.IF/ELSE(PART1)
+
+運算子加減乘除運算.IF/ELSE(PART1)
+2018-04-26 | RUI	| 編輯
+運算子加減乘除運算.IF/ELSE
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<!DOCTYPE html>
+<html>
+<body>
+<?php
+$a = 20;
+echo $a+1;
+//a+1=20+1=執行的結果會輸出「21」
+echo ‘<br>’;
+echo $a-1;
+//a-1=20-1=執行的結果會輸出「19」
+echo ‘<br>’;
+echo $a*2;
+//a*2=20*2=執行的結果會輸出「40」
+echo ‘<br>’;
+echo $a/2;
+// a/2=20/2=執行的結果會輸出「10」
+echo ‘<br>’; 
+echo $a%3;
+// a%3=20/3=6.2執行的結果會輸出「2」
+if( $kk != $zeo ) { //kk=zeo
+        echo
+‘name’;  //名字
+} else {
+        echo
+‘tw’;//執行的結果會輸出tw
+}
+?>
+</body>
+</HTML>
+運算子CODE
+<!DOCTYPE html>
+<html>
+<body>
+<?php
+$a = 20;
+echo $a+1;  
+echo ‘<br>’;
+echo $a-1;  
+echo ‘<br>’;
+echo $a*2;  
+echo ‘<br>’;
+echo $a/2;  
+echo ‘<br>’; 
+echo $a%3;   
+if( $kk != $zeo ) { 
+        echo
+‘name’;  
+} else {
+        echo
+‘tw’;
+}
+?>
+</body>
+</html>
+
+輸出畫面
+
+檔案:運算子檔案
+
+
+ 
+ 
+ 
+ 
+ 
+ 
