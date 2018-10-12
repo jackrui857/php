@@ -1,0 +1,23 @@
+PHP AGE變量(PHP年紀變量）
+
+PHP AGE變量(PHP年紀變量）
+2018-04-24 | RUI	| 編輯
+<!DOCTYPE html>
+
+<html>
+
+<body>
+
+<?php
+
+$age = 18; //= 代表賦值 賦值就是將等號右邊的值 賦給等號 左邊的變量
+
+$age = $age+1; // 取出值
+
+echo $age;
+
+?>
+
+</body>
+
+</html>
